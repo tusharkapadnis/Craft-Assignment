@@ -1,5 +1,3 @@
-package com.food.delivery.workflow;
-
 import java.util.Vector;
 
 public class CraftAssignment {
